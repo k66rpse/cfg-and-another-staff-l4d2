@@ -1,6 +1,6 @@
 ﻿LOOP_TIMES := 2
 SPEED_X := 0 ;
-SPEED_Y := 411 ; 
+SPEED_Y := 1430 ; 
 
 *x::
 Loop, %LOOP_TIMES%
